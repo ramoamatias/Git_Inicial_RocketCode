@@ -1,1 +1,1 @@
-# Git_Inicial_RocketCode
+# ESTA es una descripcion del curso
